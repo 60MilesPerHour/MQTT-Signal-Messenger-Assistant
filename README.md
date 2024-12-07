@@ -1,4 +1,4 @@
-# Signal Artificial Intelligence: Explanation
+# Signal Artificial Intelligence
 
 This repository provides a client script that communicates with an Ollama server to process messages using an LLM model.
 
