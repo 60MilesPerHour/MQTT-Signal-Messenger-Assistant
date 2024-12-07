@@ -1,3 +1,4 @@
+## Server Side Code ##
 import paho.mqtt.client as mqtt
 import asyncio
 import ollama
